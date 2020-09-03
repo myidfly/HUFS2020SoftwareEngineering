@@ -9,6 +9,9 @@ When junior and rookie developer starts to work in big scale field work, they sh
 ### Contributor (Team Members)
 Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
 
+### Supervisor Professor
+Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
+
 - - -
 
 ### 과제 1
@@ -67,3 +70,8 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
       |Yoonseong Jeong|
       |Youngbin Hong|
       
+- - -
+
+### 과제 2
+
+- - -
