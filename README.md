@@ -25,9 +25,9 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
 
       - 비대면 미팅 시간 잡기: 카톡 투표 기능을 이용: <br> https://blog.naver.com/PostView.nhn?blogId=worms1603&logNo=221671288671
       
-      사진 첨부)
+      Photo of Screenshot)
       
-      '![kakaotalk1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/kakotalk1.png)'
+      '![kakaotalk1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/kakaotalk1.png)'
       
    - Google hangout으로 비대면 미팅
 
@@ -38,6 +38,8 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
       - google meet은 특별히 설정을 하지 않는 한 채팅했던 내용이 사라짐 
 
    - Github에 프로젝트 팀 페이지 개설
+      
+      URL) https://github.com/archer0307/HUFS2020SoftwareEngineering
    
 * Github 링크 제출 (못 만들었으면, 그냥 문서(ppt)로 제출)
 
@@ -47,6 +49,18 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
    
-   예시)
+   Example Image)
    
    '![example1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/example1.png)'
+   
+  Team Member Composition)
+   
+   |Participant|Role|Skills|Training needs|
+   |:---------:|:--:|:----:|:------------:|
+   |Byungkyu Kang|
+   |Hyunseok Kim|
+   |Hyunwoo Go|
+   |Yoonseong Jeong|
+   |Youngbin Hong|
+   
+   
