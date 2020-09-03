@@ -16,7 +16,11 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
 * Github 링크 제출 (못 만들었으면, 그냥 문서(ppt)로 제출)
 
    - 프로젝트 주제
+   
+   Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap.
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
    
    예시)
+   
+   '![example1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/example1.png)'
