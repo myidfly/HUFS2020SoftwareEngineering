@@ -18,13 +18,17 @@ Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
    - 카톡 단톡방 개설
 
       - 가능한 소통은 여기에서 진행
-
+      
       - 별도의 회의록이 필요 없어지는 장점
-
+        
       - 마지막 wrap-up이 필요
 
       - 비대면 미팅 시간 잡기: 카톡 투표 기능을 이용: <br> https://blog.naver.com/PostView.nhn?blogId=worms1603&logNo=221671288671
-
+      
+      사진 첨부)
+      
+      '![kakaotalk1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/kakotalk1.png)'
+      
    - Google hangout으로 비대면 미팅
 
       - 카톡 단톡방에서 google meet 주소 공유
