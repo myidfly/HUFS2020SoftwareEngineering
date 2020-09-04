@@ -66,7 +66,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       |:---------:|:--:|:----:|:------------:|
       |Byungkyu Kang|
       |Hyunseok Kim|
-      |Hyenwoo Ko|
+      |Hyenwoo Ko|  
       |Yoonsung Jung|
       |Youngbin Hong|
       
