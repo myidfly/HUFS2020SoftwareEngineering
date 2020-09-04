@@ -7,7 +7,7 @@ This is the class project of Team 5, Software Engineering Class, Information and
 When junior and rookie developer starts to work in big scale field work, they should know about UML(Unified Modeling Language) to contribute well in the project. We would use class material to improve our main contribute ability in any programming development.
 
 ### Contributor (Team Members)
-Byungkyu Kang / Hyunseok Kim / Hyunwoo Go / Yoonseong Jeong / Youngbin Hong
+Byungkyu Kang / Hyunseok Kim / Hyenwoo Ko / Yoonseong Jeong / Youngbin Hong
 
 ### Supervisor Professor
 Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
@@ -66,7 +66,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       |:---------:|:--:|:----:|:------------:|
       |Byungkyu Kang|
       |Hyunseok Kim|
-      |Hyunwoo Go|
+      |Hyenwoo Ko|
       |Yoonseong Jeong|
       |Youngbin Hong|
       
