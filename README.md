@@ -40,6 +40,10 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       
       - google meet은 특별히 설정을 하지 않는 한 채팅했던 내용이 사라짐
       
+      Photo of screenshot)
+      
+      ![hangout1](https://github.com/archer0307/HUFS2020SoftwareEngineering/blob/master/images/hangout1.png)
+      
    - Github에 프로젝트 팀 페이지 개설
       
       URL) https://github.com/archer0307/HUFS2020SoftwareEngineering
@@ -48,11 +52,7 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
 
    - 프로젝트 주제
    
-      Need select and modifing)
-   
-      1. Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap.
-   
-      2. Producing Real Time Operating System Programs.
+      Web Publishing & Web Application Server Programming with Spring Framework & Bootstrap.
 
    - 팀 구성원(participants), 각 멤버 역할(role), 각 멤버 역량(skills)
    
