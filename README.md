@@ -65,9 +65,9 @@ Saehwa Kim (http://eselab.hufs.ac.kr/index.php/Main_Page)
       |Participant|Role|Skills|Training needs|
       |:---------:|:--:|:----:|:------------:|
       |Byungkyu Kang|???(View Manager)|???|Bootstrap, HTML, CSS, JS|
-      |Hyunseok Kim|Database Management|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
+      |Hyunseok Kim|Database Management, Tester|Programming : Python, C, mySQL<br>Framework : Django|JAVA, UML, mybatis|
       |Hyenwo Ko|Service & Mapper Implementor|Programming : Java|UML|
-      |Yoonsung Jung|Controller Implementor|Programming : C, Java|UML|
+      |Yoonsung Jung|Controller Implementor, Master liasion|Programming : C, Java|UML|
       |Youngbin Hong|Team Leader|Programming : C, Java, Python, mybatis, Freemarker<br>Framework : Django, Spring, Bootstrap|UML|
       
 - - -
